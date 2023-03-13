@@ -1,0 +1,11 @@
+
+.custom-button {
+    border: none;
+    margin: 5px;
+    width: 60px;
+    height: 40px;
+    border-radius: 4px;
+    background-color: chartreuse;
+    font-weight: 900;
+    cursor: pointer;
+}
